@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developper Frontend
 -------------------
 
-Développeur passionné par le web moderne, je me spécialise en Angular et NestJS pour concevoir des applications fullstack robustes et bien structurées. J'accorde une grande importance à l'expérience utilisateur, à la qualité du code et à la maintenabilité des projets. J’utilise TailwindCSS et DaisyUI pour des interfaces élégantes et responsive, et j’explore également l’univers des CMS headless avec Strapi. Mon objectif est de créer des solutions performantes, accessibles et évolutives.
+🎯 Développeur Front-End spécialisé en Angular, je conçois des applications web modernes, performantes et maintenables.
+
+Je m’investis dans l’apprentissage continu via des projets concrets (Frontend Mentor, side-projects) pour affiner mes compétences en intégration HTML/CSS, accessibilité et design responsive.
+
+Actuellement, je monte en expertise sur Angular, TailwindCSS et DaisyUI, avec un fort focus sur l’expérience utilisateur et l'efficacité en développement.
+
+📚 Curieux, rigoureux et passionné par le clean code, je progresse chaque jour grâce à la pratique régulière.
 
 * 🌍  I'm based in Normandie
 * ✉️  You can contact me at [sebastienprodev@gmail.com](mailto:sebastienprodev@gmail.com)
