@@ -4,17 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developper Frontend
 -------------------
 
-🎯 Développeur Front-End spécialisé en Angular, je conçois des applications web modernes, performantes et maintenables.
+Développeur Frontend spécialisé en Angular, je conçois des applications web modernes, performantes et maintenables.
 
-Je m’investis dans l’apprentissage continu via des projets concrets (Frontend Mentor, side-projects) pour affiner mes compétences en intégration HTML/CSS, accessibilité et design responsive.
 
-Actuellement, je monte en expertise sur Angular, TailwindCSS et DaisyUI, avec un fort focus sur l’expérience utilisateur et l'efficacité en développement.
+J’utilise Angular, TailwindCSS et DaisyUI pour créer des applications responsives, élégantes et facilement maintenables. Mon travail s’appuie sur des maquettes Figma ou des guidelines existantes, avec une attention particulière à l’accessibilité (a11y) et à la performance. Je monte en expertise dans ces spécialités, avec un fort focus sur l’expérience utilisateur et l'efficacité en développement.
 
-📚 Curieux, rigoureux et passionné par le clean code, je progresse chaque jour grâce à la pratique régulière.
+Curieux, rigoureux et passionné par le clean code, je progresse chaque jour grâce à la pratique régulière. Je privilégie une approche composantisée, réutilisable et orientée produit. Mon objectif : livrer des interfaces de qualité, bien structurées, prêtes pour l’évolutivité.
 
-* 🌍  I'm based in Normandie
-* ✉️  You can contact me at [sebastienprodev@gmail.com](mailto:sebastienprodev@gmail.com)
-* 🧠  I'm learning Angular et Strapi
+
+
 
 ### Skills
 
